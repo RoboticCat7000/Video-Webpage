@@ -11,5 +11,9 @@ p{
     
 }
 .blue-paragraph{
-    color:blue;
+    color:#3f2fd4;
+}
+a{
+    text-decoration: none;
+    color:blueviolet;
 }
